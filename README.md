@@ -28,13 +28,37 @@ GLIDE, SLOW GLIDE, SIDE, WALK, BOUNCE, NONE
 /pet setlevel <petname> <amount> - set a pet level
 /pet level - shows current pet level
 
-## Permissions:
-pet.command - use /pet
-pet.trail - use /pet trail
-pet.glow - use /pet glow
-pet.see.<petname> - see the specified pet in the gui
-pet.use.<petname> - select the specified pet in the gui
-pet.setlevel - set pet level
+# Command and Permissions:
+<table>
+    <tr>
+        <th>Permissions</th>
+        <th>Ação</th>
+    </tr>
+    <tr>
+        <td>pet.command</td>
+        <td>use /pet</td>
+    </tr>
+    <tr>
+        <td>pet.trail</td>
+        <td>use /pet trail</td>
+    </tr>
+    <tr>
+        <td>pet.glow</td>
+        <td>use /pet glow</td>
+    </tr>
+    <tr>
+        <td>pet.see.petname</td>
+        <td>see the specified pet in the gui</td>
+    </tr>
+    <tr>
+        <td>pet.use.petname</td>
+        <td>select the specified pet in the gui</td>
+    </tr>
+    <tr>
+        <td>pet.setlevel</td>
+        <td>set pet level</td>
+    </tr>
+</table>
 
 ## Addons
 
